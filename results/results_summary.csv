@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall
+Logistic Regression — full features,0.999507631708518,1.0,0.9989785495403473
+Logistic Regression — top-5 features,0.9985228951255539,1.0,0.9969356486210419
+Decision Tree — full features,0.999015263417036,1.0,0.9979570990806946
+Decision Tree — top-5 features,0.9985228951255539,1.0,0.9969356486210419
